@@ -4,8 +4,10 @@ Mount & sync a dropbox volume.
 
 # Usage
 
+```bash
 docker-compose build
 docker-compose up
+```
 
 # Auth
 
