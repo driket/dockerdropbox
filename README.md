@@ -1,6 +1,6 @@
 # Dropbox Docker Service
 
-Mount & sync a dropbox volume.
+Mount & sync a Dropbox volume.
 
 # Usage
 
